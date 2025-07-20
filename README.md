@@ -7,8 +7,8 @@
 
 ## 🔭 Current Learning & Contributions:
 - Deep diving into **Node.js, React, and REST APIs**
-- Making open-source contributions on GitHub (check my pinned repos 👇)
-- Practicing **DSA** on LeetCode & HackerRank (150+ problems solved)
+- Starting my journey to make open-source contributions on GitHub
+- Practicing **DSA** on LeetCode & HackerRank (200+ problems solved)
 - Participated in multiple **hackathons** and coding competitions
 
 ---
@@ -64,4 +64,4 @@ CLI-based expense manager built in Java with file handling and budget alerts.
 
 ---
 
-> 🔍 *Currently open to internships & remote roles focused on full-stack or open-source development.*
+> 🔍 *Currently open to internships & remote roles focused on software development.*
