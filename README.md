@@ -64,4 +64,4 @@ CLI-based expense manager built in Java with file handling and budget alerts.
 
 ---
 
-> 🔍 *Currently open to internships & remote roles focused on software development.*
+> 🔍 *Currently open to internships & remote roles focused on full-stack or open-source development.*
