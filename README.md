@@ -1,15 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm **Sri Harsha Gattu** — a Computer Science undergrad at MREC, Hyderabad, with a passion for **problem-solving**, **web development**, and **open-source**.  
+👋 Hi, I'm **Sri Harsha Gattu** — a Computer Science undergrad at MREC, Hyderabad, with a passion for **problem-solving** and **software development**.
 
-🌱 I'm currently focused on **building full-stack applications**, contributing to **open-source projects**, and preparing for **developer roles** at tech-first companies.
-
----
-
-## 🔭 Current Learning & Contributions:
-- Deep diving into **Node.js, React, and REST APIs**
-- Starting my journey to make open-source contributions on GitHub
-- Practicing **DSA** on LeetCode & HackerRank (200+ problems solved)
-- Participated in multiple **hackathons** and coding competitions
+🌱 I'm currently focused on **developing my problem solving capabilities** and preparing for **developer roles** at tech-first companies.
 
 ---
 
