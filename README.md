@@ -36,7 +36,6 @@ Enabled users to monitor expenses and maintain budgets, helping over 80% of user
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)  
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&style=flat-square&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
