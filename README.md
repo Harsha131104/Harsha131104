@@ -48,7 +48,7 @@ CLI-based expense manager built in C++ with file handling and budget alerts.
 
 ## 🏆 Achievements & Activities:
 - 🏁 Participated in 3+ Hackathons
-- 🧑‍🏫 Mentored peers in understanding **Data Structures & Algorithms**
+- 🧑‍🏫 Led a 4-member hackathon team, delivering a React-based web app in 36 hours, by applying agile development and DSA for backend logic
 - 💬 Member of college **Technical Club** – organized coding workshops
 - 🧪 Practiced **Agile practices** – sprint planning, code reviews
 
