@@ -16,7 +16,8 @@ Integrated real-time diagnostic feedback for vehicle maintenance, identifying cr
 **Tech Stack:** Python, Django, TensorFlow/Keras, LSTM, CNN, HTML, CSS
 
 ### 💰 Personal Finance Tracker  
-CLI-based expense manager built in C++ with file handling and budget alerts.  
+CLI-based expense manager built in C++ with file handling and budget alerts.
+
 **Tech Stack:** C++, OOPs, File I/O
 
 > Check out more detailed writeups in my repositories!
