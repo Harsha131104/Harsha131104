@@ -36,6 +36,10 @@ CLI-based expense manager built in Java with file handling and budget alerts.
 
 ---
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha131104&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 ## 🏆 Achievements & Activities:
 - 🏁 Participated in 3+ Hackathons
 - 🧑‍🏫 Mentored peers in understanding **Data Structures & Algorithms**
