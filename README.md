@@ -8,10 +8,15 @@
 ## 💼 Projects:
 ### 🛠️ Vehicular Engine Health Prediction    
 Developed an ensemble deep learning model for vehicular engine health prediction , achieving 92% accuracy in detecting engine issues, by integrating LSTM and CNN architectures with real-time vehicle data inputs.
+
 Designed a Django-based web interface for engine health diagnostics, enabling 100+ users to input parameters like oil temperature, RPM, and throttle for real-time analysis~, by leveraging Django’s MVC framework and RESTful APIs.
+
 Reduced engine failure prediction time by 30%, processing inputs for over 50 test cases in under 2 seconds, by optimizing the deep learning model with feature engineering and hyperparameter tuning.
+
 Enhanced user accessibility to predictive maintenance insights, supporting 95% user satisfaction in beta testing, by implementing an intuitive front-end interface with HTML, CSS, and JavaScript in Django.
+
 Integrated real-time diagnostic feedback for vehicle maintenance, identifying critical repairs for 85% of test scenarios accurately, by combining ensemble model outputs with a rule-based recommendation system.
+
 **Tech Stack:** Python, Django, TensorFlow/Keras, LSTM, CNN, HTML, CSS
 
 ### 💰 Personal Finance Tracker  
